@@ -221,7 +221,7 @@ npm start
 * 500 → Server Error
 ---
 ##  Sample Credentials
-* Admin: [admin@library.com](mailto:admin@library.com) / password123
+* Admin: [admin@library.com](mailto:admin@library.com) / password1234
 * Student: [student@library.com](mailto:student@library.com) / password123
   You can also register a new student account using the Register page and log in with your own credentials.
 ---
